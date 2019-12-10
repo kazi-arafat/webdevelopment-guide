@@ -112,7 +112,7 @@ Use of SaSS
 
 ## Basic FE Developer
 
- ![Basic FE Developer](image/Capture.jpg)
+ ![Basic FE Developer](image/Capture.JPG)
 
 ### Suggested YT Videos
 
